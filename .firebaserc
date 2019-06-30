@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "toilet-iot-2019",
+    "staging": "toilet-iot-2019"
+  }
+}
